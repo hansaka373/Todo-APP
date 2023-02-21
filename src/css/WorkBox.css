@@ -1,0 +1,27 @@
+.display_div{
+    margin: auto;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    width: 90%;
+    background-color:#35469a;
+}
+.btn{
+    background-color: #ed0000;
+    color: white;
+    cursor: pointer;
+    font-size: 13px;
+    font-family: "Florence";
+    border: 0;
+    border-radius: 1.5px;
+}
+h3{
+    color: white;
+    font-family: "Consolas";
+}

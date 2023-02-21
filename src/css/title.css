@@ -1,0 +1,17 @@
+.wrapper{
+    top: 30px;
+    margin: auto;
+    position: absolute;
+    background-color: hsl(230, 38%, 50%);
+    border-radius: 15px;
+    box-shadow:10cap;
+    left: 0;
+    right: 0;
+    width: 50%;
+}
+h1{
+    color: aliceblue;
+    font-family: "Franklin Gothic Medium";
+    font-weight: 500;
+    font-size: 30px;
+}
